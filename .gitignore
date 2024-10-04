@@ -1,0 +1,7 @@
+# Zig
+zig-out
+.zig-cache
+
+# Profiling
+callgrind.out.*
+perf.data
